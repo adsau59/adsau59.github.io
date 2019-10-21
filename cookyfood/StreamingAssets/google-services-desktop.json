@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050655270160",
+    "firebase_url": "https://cookyfood-bee97.firebaseio.com",
+    "project_id": "cookyfood-bee97",
+    "storage_bucket": "cookyfood-bee97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050655270160:android:b80b3136dd44f8d0",
+        "android_client_info": {
+          "package_name": "in.definex.cookyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050655270160-a1net6cvb1atuqhc1a49migpucqmft6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.definex.cookyfood",
+            "certificate_hash": "93d91000d329951401b5a4ca26b3bbb4cccd04f4"
+          }
+        },
+        {
+          "client_id": "1050655270160-9n8eik5geet3k26bfjao1aq46r2qko1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNDDW6ia8SwhdlqrKg_R_xYfY5X_L-qzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050655270160-9n8eik5geet3k26bfjao1aq46r2qko1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
